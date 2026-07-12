@@ -341,12 +341,4 @@ scikit-learn
 **Indrayani Mude**
 
 Computer Engineering Student  
-Artificial Intelligence & Machine Learning Enthusiast
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
